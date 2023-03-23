@@ -13,8 +13,8 @@
 	<description>Maven Web Project for Java Project</description>
 
 	<organization>
-		<name>Landmark Technologies</name>
-		<url>http://landmarktechnologies.com/</url>
+		<name>Swift Technologies Inc</name>
+		<url>http://swiftekinc.com/</url>
 	</organization>
 
 	<properties>
@@ -100,7 +100,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
+	      <name>Swift Technologies Snapshot Nexus Repository </name>
 	      <url>http://3.84.49.142:8081/repository/paypal-snapshots/</url>
 	    </snapshotRepository>
 	    
