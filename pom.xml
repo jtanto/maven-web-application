@@ -94,7 +94,7 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
+	      <name>Swift Technologies Releases Nexus Repository</name>
 	      <url>http://192.168.10.112:8081/repository/paypal-releases/</url>
 	    </repository>
 	    
